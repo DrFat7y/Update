@@ -1,14 +1,14 @@
 {
   "android": {
     "version": "1.0.0",
-    "force_update": true,
-    "message": "تحديث هام لتطبيق الموبايل لإصلاح بعض المشاكل",
-    "download_url": "https://link-to-your-app.apk"
+    "force_update": false,
+    "message": "لا يوجد تحديث",
+    "download_url": "..."
   },
   "windows": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "force_update": true,
-    "message": "نسخة جديدة للكمبيوتر لتحسين الأداء",
-    "download_url": "https://link-to-your-app.exe"
+    "message": "تجربة التحديث الإجباري الحقيقي!",
+    "download_url": "https://google.com"
   }
 }
