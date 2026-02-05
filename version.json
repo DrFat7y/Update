@@ -1,12 +1,12 @@
 {
   "android": {
     "version": "2.0.0",
-    "force_update": false,
+    "force_update": true,
     "message": "",
     "download_url": "..."
   },
   "windows": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "force_update": false,
     "message": "تجربة التحديث الإجباري الحقيقي!",
     "download_url": "https://google.com"
