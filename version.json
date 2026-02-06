@@ -1,14 +1,14 @@
 {
   "android": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "force_update": true,
     "message": "",
-    "download_url": "https://github.com/DrFat7y/EZ-Store-POS/releases/download/1.0.0/Owner.Reports.apk"
+    "download_url": "https://github.com/DrFat7y/EZ-Store-POS/releases/download/1.0.1/Owner-Reports1.0.1.apk"
   },
   "windows": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "force_update": true,
     "message": "",
-    "download_url": "https://github.com/DrFat7y/EZ-Store-POS/releases/download/1.0.0/EZ-Store-POS-Setup.exe"
+    "download_url": "https://github.com/DrFat7y/EZ-Store-POS/releases/download/1.0.1/EZ-Store-POS-Setup-1.0.1.exe"
   }
 }
